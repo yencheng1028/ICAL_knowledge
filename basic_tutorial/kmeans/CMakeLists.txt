@@ -1,0 +1,1 @@
+add_library(kmeans_lib SHARED kmeans.cpp)
